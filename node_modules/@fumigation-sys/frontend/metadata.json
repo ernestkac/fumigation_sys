@@ -1,0 +1,7 @@
+{
+  "name": "Fumigation Exercise Tracking System",
+  "description": "Full-stack tracking and reporting system for warehouse fumigation exercises with snapshot data integrity and professional Excel exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
